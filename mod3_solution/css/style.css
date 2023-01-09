@@ -27,20 +27,7 @@ body {
     text-decoration: none;
   }
   
-  #nav-list a {
-    color: #80bad1;
-    font-weight: bold;
-  }
-  
-  #nav-list a:hover {
-    background:pink;
-  }
-  
-  .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-    border: 1px solid blue;
-  }
-  
-  .navbar-header button.navbar-toggle {
+  .navbar button.navbar-toggle {
     clear: both;
     margin-top: -30px;
   }
